@@ -1,4 +1,4 @@
-module event_processor
+module myworkproject5
 
 go 1.23.1
 
